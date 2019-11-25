@@ -22,7 +22,7 @@ public class RSAUtilTest {
      */
     @Test
     public void testGenKeyPair() throws Exception {
-        RSAUtil.genKeyPair("test");
+        RSAUtil.genKeyPair("test1");
     }
 
     /**
